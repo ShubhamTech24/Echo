@@ -107,13 +107,3 @@ Display AI Response in Chat Interface
 
 LinkedIn
 [https://linkedin.com/in/shubham-vishwakarma-358332209](https://linkedin.com/in/shubham-vishwakarma-358332209)
-
----
-
-# 📜 License
-
-This project is developed for **educational and learning purposes**.
-
----
-
-If you want, I can also show you how to **make your GitHub look much more professional with your projects** (Echo AI, SynapseOS, Suraksha Setu, AeroSense, AI Document Assistant).
